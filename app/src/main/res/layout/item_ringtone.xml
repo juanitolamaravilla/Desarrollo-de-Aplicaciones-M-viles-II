@@ -28,7 +28,7 @@
         android:fontFamily="sans-serif-medium"
         android:text="Ringtone 1"
         android:textColor="#4A4A4A"
-        android:textSize="18sp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@id/btnDownload"
         app:layout_constraintStart_toEndOf="@id/btnPlay"

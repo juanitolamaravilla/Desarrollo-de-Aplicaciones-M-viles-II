@@ -9,8 +9,8 @@
 
     <ImageView
         android:id="@+id/ivLogoInicial"
-        android:layout_width="296dp"
-        android:layout_height="276dp"
+        android:layout_width="323dp"
+        android:layout_height="301dp"
         android:contentDescription="Logo inicial"
         android:scaleType="fitCenter"
         android:src="@drawable/logoinicial"
@@ -23,8 +23,8 @@
 
     <TextView
         android:id="@+id/tvTituloRingtones"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="282dp"
+        android:layout_height="77dp"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
         android:fontFamily="sans-serif-black"

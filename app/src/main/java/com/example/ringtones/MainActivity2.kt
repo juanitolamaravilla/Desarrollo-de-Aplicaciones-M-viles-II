@@ -52,7 +52,9 @@ class MainActivity2 : AppCompatActivity() {
             RingtoneItem("Tal vez sea estupido", R.raw.telves_sea_estupido, "telves_sea_estupido.mp3"),
             RingtoneItem("Tiburon banda sonora", R.raw.tiburon_banda_sonora, "tiburon_banda_sonora.mp3"),
             RingtoneItem("Waagh", R.raw.waagh, "waagh.mp3"),
-            RingtoneItem("Woboba", R.raw.woboba, "woboba.mp3")
+            RingtoneItem("Woboba", R.raw.woboba, "woboba.mp3"),
+            RingtoneItem("spider_man", R.raw.spider_man, "spider_man.mp3"),
+            RingtoneItem("spiderman_meme_song", R.raw.spiderman_meme_song, "spiderman_meme_song.mp3")
         )
 
         val recyclerView = findViewById<RecyclerView>(R.id.rvRingtones)
